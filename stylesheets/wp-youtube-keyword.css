@@ -1,0 +1,37 @@
+p.css_wp_youtube_row {
+}
+p.css_wp_youtube_row label {
+    display: block;
+}
+fieldset.css_wp_youtube_row input {
+    border: 1px solid #EEEEEE;
+    height: 12px;
+    width: 40px;
+}
+p.css_wp_youtube_row input {
+    width: 100%;
+}
+.small_input {
+    padding: 0 16px 0 14px;
+}
+fieldset.css_wp_youtube_row lable {
+}
+fieldset.css_wp_youtube_row {
+    background: none repeat scroll 0 0 #F3F3F3;
+    border: 1px solid #FFFFFF;
+    padding: 10px;
+}
+p.css_wp_youtube_row textarea {
+    height: 100px;
+    width: 100%;
+}
+#checkoverride span, .ran_set span {
+	font-style:italic;
+	color:red;
+	font-size:10px;
+}
+
+#override_settings {
+
+}
+
